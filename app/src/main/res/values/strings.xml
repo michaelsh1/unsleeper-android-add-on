@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unsleeper</string>
+    <string name="Unsleeper">Unsleeper</string>
+    <string name="Setup_Explanation">This app is all about the quick settings tile.\n\nhow to set it up:\n    1. To preform its task this app requires your permission to change the device settings.\n    2. After you acceept the required settings, you need scroll down the notification bar and press on the quick settings edit button.\n    3. You will see the widget it is called UnSleeper.\n    4. Drag it and add it to thequick settings bar.\nThats it! Enjoy!</string>
+</resources>
